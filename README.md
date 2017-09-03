@@ -1,9 +1,5 @@
 # Predicting rental prices in New York
   
----   
-
-#### Applied Machine Learning - Assignment 2  - Group of 2
-
 ---  
   
 ##### Keerti Agrawal - ka2601  
